@@ -1,5 +1,5 @@
 ---
-name: value-of-solving-pains
+name: value-of-solving-pains-skill
 description: "Bridging value proposition design and value based pricing. Quantify the economic value of solving B2B customer pains by calculating potential value, effective value, and willingness to pay."
 version: 1.0.0
 author: jocwulf
